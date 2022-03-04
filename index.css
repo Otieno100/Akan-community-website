@@ -194,9 +194,21 @@
     
     }
     
+
+    .picker{
+justify-content: center;
+text-align: center;
+align-items: center;
+display: flex;
+
+
+    }
     
     
-    
+    .date{
+display: flex;
+justify-content: center;
+    }
     
     
     
