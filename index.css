@@ -276,3 +276,21 @@ display: flex;
 justify-content: center;
 
     }
+
+    .test{
+background-image: url("https://www.teahub.io/photos/full/29-299881_wallpapers-of-beautiful-places-data-src-img-85482.jpg");
+
+height: 80vh;
+width: 190vh;
+margin-top: 150px;
+    }
+
+    .absolute{
+position: absolute;
+margin-top: 500px;
+display: flex;
+justify-content: center;
+
+
+
+    }
