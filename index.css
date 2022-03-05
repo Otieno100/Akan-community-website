@@ -200,6 +200,10 @@ justify-content: center;
 text-align: center;
 align-items: center;
 display: flex;
+margin-top: 150px;
+border: solid;
+height: 40vh;
+width: 30vh;
 
 
     }
@@ -208,9 +212,36 @@ display: flex;
     .date{
 display: flex;
 justify-content: center;
+
+    }
+    
+    .event{
+
+        margin-top: 200px;
+border: solid none;
+border-width: 50% right;
+border-width: 0% left;
+
+
+
     }
     
     
     
-    
-    
+    .content{
+        display: flex;
+        justify-content: center;
+        text-align: center;
+    }
+    .define{
+        margin-bottom: 50px;
+
+
+    }
+
+    .birth{
+
+padding: 40px;
+font-size: 20px;
+
+    }
