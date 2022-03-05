@@ -455,52 +455,62 @@
 
 
 
-        <div class="event">
-            <div class="date">
-                <p>
-                    Age determination for Akan people <br>
-                    to determine your age and the day you were born <br>
-                    just key in the forms the date that you were born
-
-                </p>
-            </div>
-
-            <div>
 
 
 
-                <div class="content">
+        <div class="dem">
 
+            <div id="event">
+                <div class="date">
+                    <p>
+                        Age determination for Akan people <br>
+                        to determine your age and the day you were born <br>
+                        just key in the forms the date that you were born
 
-                    <div class="picker">
-
-                        <form class="pick">
-    
-                            <label  class="define">
-                                select your gender <br>
-                                <input type="radio" name="gender" value="male"> Male<br>
-                                <input type="radio" name="gender" value="female"> Female<br>
-    
-    
-                            </label>
-                            <label class="birth">
-                                Enter your birthday:
-                                <input type="date" name="bday">
-                            </label> <br>
-    
-                            <p><button>Submit</button></p>
-                        </form>
-    
-    
-                    </div>
-    
-    
+                    </p>
                 </div>
 
+                <div>
 
+
+
+                    <div class="content">
+
+
+                        <div class="picker">
+
+                            <form class="pick" id="pick">
+
+                                <label id="define">
+                                    select your gender <br>
+                                    <input type="radio" name="gender" id="male" value="male"> male<br>
+                                    <input type="radio" name="gender" value="female"> Female<br>
+    
+
+
+                                </label>
+                                <label class="birth">
+                                    Enter your birthday:
+                                    <input type="date" name="bday">
+                                </label> <br>
+
+                                <p><button .onclick = "submit()" id="submit">Submit</button></p>
+                            </form>
+
+
+                        </div>
+
+
+                    </div>
+
+
+
+                </div>
 
             </div>
 
+
+
         </div>
 
 
@@ -509,15 +519,6 @@
 
 
 
-
-
-
-
-        Brian108otieno@gmail.com
-
-        <div id="toast">
-            We have have booked the appartment for you we will contact you for further details
-        </div>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"
             integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw=="
             crossorigin="anonymous" referrerpolicy="no-referrer"></script>
@@ -525,7 +526,7 @@
         <!-- MDB -->
         <script type="text/javascript"
             src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.10.2/mdb.min.js"></script>
-        <script src="../JS/buy.js"></script>
+
         <script src="script.js"></script>
 </body>
 
