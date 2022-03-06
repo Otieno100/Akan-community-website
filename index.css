@@ -356,3 +356,10 @@ justify-content: center;
     .cover{
     background-color: #FFFFFF;
     }
+    .social{
+ margin-top: 450px ;
+ display: flex;
+ justify-content: center;
+
+
+    }
