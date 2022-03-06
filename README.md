@@ -55,8 +55,6 @@ Commit your changes (git commit -am 'Improve feature')
 Push to the branch (git push origin improve-feature)
 Create a Pull Request
 
-## live link to my repository
-https://otieno100.github.io/Otieno-Portfolio-landing-page/
 
 
 
