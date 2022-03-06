@@ -56,6 +56,9 @@ Push to the branch (git push origin improve-feature)
 Create a Pull Request
 
 
+## live link to the website 
+https://otieno100.github.io/Akan-community-website/
+
 
 
 ## licence
