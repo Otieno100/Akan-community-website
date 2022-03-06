@@ -251,3 +251,6 @@ getDayOfWeek("day")
 let day = getDayOfWeek(date)
 let dayOfWeek = getDayOfWeek(day)
 document.getElementById("day").innerHTML=dayOfWeek
+
+
+// alert("Have you entered your details??")
