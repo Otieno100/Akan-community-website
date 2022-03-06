@@ -245,6 +245,9 @@ function getTheName(dayOfweek, sex) {
   return female[dayOfweek]
 }
 
+
+getDayOfWeek("day")
+
 let day = getDayOfWeek(date)
 let dayOfWeek = getDayOfWeek(day)
-document.getElementById("name").innerHTML=dayOfWeek
+document.getElementById("day").innerHTML=dayOfWeek
