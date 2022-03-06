@@ -196,6 +196,7 @@ function submitDate() {
   let dayOfWeek = getDayOfWeek(day)
   let name = getTheName(dayOfWeek, sex)
   document.getElementById("name").innerHTML = name
+  document.getElementById("day").innerHTML=dayOfWeek
 }
 
 function getDay(date) {
@@ -250,7 +251,7 @@ getDayOfWeek("day")
 
 let day = getDayOfWeek(date)
 let dayOfWeek = getDayOfWeek(day)
-document.getElementById("day").innerHTML=dayOfWeek
+document.getElementById("day").innerHTML=day
 
 
 // alert("Have you entered your details??")
