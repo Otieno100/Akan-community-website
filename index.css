@@ -291,6 +291,7 @@ position: absolute;
 margin-top: 450px;
 display: flex;
 justify-content: center;
+justify-items: center;
 
 
 
@@ -351,4 +352,7 @@ display: flex;
 justify-content: center;
 
 
+    }
+    .cover{
+    background-color: #FFFFFF;
     }
