@@ -279,18 +279,66 @@ justify-content: center;
 
     .test{
 background-image: url("https://www.teahub.io/photos/full/29-299881_wallpapers-of-beautiful-places-data-src-img-85482.jpg");
+border-radius: 20px;
 
 height: 80vh;
-width: 190vh;
+width: 180vh;
 margin-top: 150px;
     }
 
     .absolute{
 position: absolute;
-margin-top: 500px;
+margin-top: 450px;
 display: flex;
 justify-content: center;
 
+
+
+    }
+
+
+
+
+
+
+
+
+
+    .container {
+        margin: 100px;
+    }
+    
+    .date-input {
+        height: 40px;
+        width: 40%;
+        font-size: 16px;
+    }
+    .gender {
+        font-size: 16px;
+    }
+    button {
+        margin-top: 30px;
+        height: 40px;
+        background-color: darkcyan;
+        color: white;
+        border-radius: 20px;
+        border: none;
+        padding: 5px 20px;
+        width: 150px;
+        cursor: pointer;
+        font-size: 16px;
+    }
+    
+    #name {
+        color: rebeccapurple;
+        font-weight: bold;
+    }
+
+
+    .st{
+
+display: flex;
+justify-content: center;
 
 
     }
