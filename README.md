@@ -15,6 +15,9 @@
 + [Authors Info](#author-Info)
 
 ## Description
+A web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. Akan names are derived from Ghanian culture. Frequently in Ghana, children are given their first name as a 'day name' which corresponds to the day in the week they were born.
+
+
 This is  a website for Akan people in Ghana.It contains the basic information about their culture and provides the best way to determine their names by just the dates that they were born.
 when they enter their dates of birth in the form , the website automatically prints out their names
 
@@ -62,6 +65,22 @@ Add changes to reflect the changes made
 Commit your changes (git commit -am 'Improve feature')
 Push to the branch (git push origin improve-feature)
 Create a Pull Request
+
+## Behaviour Driven Development
+Displays Form For Entering Date and Gender
+INPUT: "User's Birthdate Entered"
+INPUT: "User's Gender Entered"
+OUTPUT: "Displays User's Akan Name According to Submitted Date and Gender"
+Displays an Error Message if Date Input Left Blank
+INPUT: ""
+OUTPUT: "Displays Error Message"
+Displays an Error Message if Gender Not Chosen
+INPUT: ""
+OUTPUT: "Display an Error Message"
+Clears Form and Reset the Message on Click
+INPUT: "Click Reset Button"
+OUTPUT: "Clears and Resets the Form"
+
 
 
 ## live link to the website 

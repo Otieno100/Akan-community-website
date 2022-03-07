@@ -185,7 +185,7 @@ function submitDate() {
   let date = document.getElementById('date').value;
   let male = document.getElementById('male').checked
   let female = document.getElementById('female').checked
-  let sex = 'male'
+  // let sex = 'male'
   if (female) {
       sex = 'female'
   }
