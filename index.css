@@ -368,3 +368,306 @@ background-color: #ee6c4a;
 
  }
 
+
+
+ /*  */
+ .container-fluid-sm{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/h_img.jpg?raw=true");
+}
+
+.bg-image {
+    position: relative;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50%;}
+
+.test{
+
+text-align: center;
+font-size: 1.5em;
+margin-top: 460px;
+font-family: 'Times New Roman', Times, serif;
+
+}
+
+
+
+.i-circle {
+    /* border: solid; */
+border-color: #fff;
+    color: #fff;
+    /* padding: 2.5px 0px;/ */
+    /* border-radius: 80%; */
+    font-size: 35px;
+    text-align: center;
+    /* margin-bottom: 200px; */
+    
+}
+
+
+body {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+    /* font-size: 14px; */
+    /* line-height: 1.5; */
+    /* color: var(--color-fg-default); */
+    /* background-color: var(--color-canvas-default); */
+}
+
+.card-1{
+font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+font-size: 14px;
+line-height: 1.5;
+color: var(--color-fg-default);
+background-color: var(--color-canvas-default);
+height: 30vh;
+width: 100%;
+background-repeat: no-repeat;
+display: flex;
+justify-content: center;
+}
+
+
+.Box-header {
+    padding: 16px;
+    margin: -1px -1px 0;
+    background-color: var(--color-canvas-subtle);
+    border-color: var(--color-border-default);
+    border-style: solid;
+    border-width: 1px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 6px;}
+
+
+
+    /* trial */
+
+
+#show{
+text-align: center;
+word-wrap: normal;
+display: none;
+position: absolute;
+text-align: center;
+justify-content: center;
+word-wrap: inherit;
+/* display: none; */
+/* border: solid; */
+position: absolute;
+margin-bottom: 560px;
+position: relative;
+
+}
+
+/* #hover{ */
+
+color: #fff;
+/* position: absolute; */
+font-size: 25px;
+/* text-align: center; */
+ /* margin-top:100px; */
+ /* margin-left: 45px; */
+ /* display: none; */
+ /* position: relative; */
+ /* margin-bottom: 100px; */
+ /* display: none; */
+ display: flex;
+ text-align: center;
+ justify-content: center;
+ opacity: 0.25sec;
+
+
+}
+
+
+.test-4{
+    color: #fff;
+    position: absolute;
+    font-size: 100px;
+    border: solid red;
+
+}
+
+
+
+.hovwe-overlay1:hover{
+
+    opacity: 0;
+}
+
+
+
+.img-fluid1{
+flex-wrap: wrap;
+position: inherit;
+background-color: #fff;
+/* opacity: 0.25; */
+
+
+}
+
+
+
+#show-1{
+    text-align: center;
+    word-wrap: normal;
+    display: none;
+    position: absolute;
+    text-align: center;
+    justify-content: center;
+    word-wrap: inherit;
+    display: none;
+    /* border: solid; */
+    position: absolute;
+    margin-bottom: 610px;
+    position: relative;
+    background-color: #fff;
+    }
+
+
+
+
+#show-2{
+    text-align: center;
+    word-wrap: normal;
+    display: none;
+    position: absolute;
+    text-align: center;
+    justify-content: center;
+    word-wrap: inherit;
+    display: none;
+    /* border: solid; */
+    position: absolute;
+    margin-bottom: 560px;
+    position: relative;
+    background-color: #fff;
+    }
+
+
+
+/* #show-3{ */
+    text-align: center;
+    word-wrap: normal;
+    display: none;
+    position: absolute;
+    text-align: center;
+    justify-content: center;
+    word-wrap: inherit;
+    display: none;
+    /* border: solid; */
+    position: absolute;
+    margin-bottom: 560px;
+    position: relative;
+    background-color: #fff;
+    }
+
+
+
+    #trapezoid{
+
+        color: #fff;
+        font-size: 100px;
+        border: solid;
+
+    }
+
+    #target{
+
+    border: solid;
+    justify-content: center;
+    text-align: center;
+    }
+
+
+    #target-1{
+        display: flex;
+display: none;
+color: #fff;
+border: solid;
+justify-content: center;
+align-items: center;
+width: auto;
+position: absolute;
+margin-right: 50px;
+margin-bottom: 200px;
+/* background-color: #fff; */
+/* border-radius: 20px; */
+height: 150px;
+
+    }
+
+
+
+    /*  */
+
+
+
+ #name{
+        background-color: transparent;
+    }
+    #mail{
+        background-color: transparent;
+        color: #fff;
+    }
+    .form{
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        color: #fff;
+    }
+    .message{
+        position: absolute;
+        width: 50vw;
+        height: 50vh;
+        padding: 0px;
+        color: white;
+        position: relative;
+        justify-content: center;
+        background-color: transparent;
+    }
+
+
+
+
+
+
+
+
+    /*  */
+
+
+
+    .form-1{
+
+/* position: absolute; */
+margin-bottom: 500px;
+color: #fff;
+border-color: #fff;
+
+
+    }
+
+
+    .mt-4{
+        color: #fff;
+    border-color: #fff;
+    }
+
+    #name{
+
+        color: #fff;
+        border: #fff;
+    }
+
+
+    #btn{
+border-radius: 10px;
+
+    }
+
+   
