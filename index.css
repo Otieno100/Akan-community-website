@@ -359,5 +359,12 @@ justify-content: center;
     .social{
  margin-top: 450px ;
  display: flex;
- justify-content: center;
+ justify-content: center;}
+
+ .cont{
+
+background-color: #ee6c4a;
+
+
+ }
 
